@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Практика</string>
+    <string name="title_home">Начало</string>
+    <string name="title_dashboard">Индексы</string>
+    <string name="title_notifications">Итог</string>
+    <string name="height">Ваш рост(cм)</string>
+    <string name="weight">Ваш вес(кг)</string>
+    <string name="result1" />
+    <string name="button">Узнаём ИМТ</string>
+    <string name="result"></string>
+    <string name="reference" translatable="false"></string>
+    <string name="n_5000_n_7500_9999_10_12_12_5"><![CDATA[Методические рекомендации\n <5000 сидячий образ жизни\n7500-9999 несколько активный образ жизни;\n10-12 тыс. активный образ жизни;\nсвыше 12,5 тыс. очень активный образ жизни]]></string>
+    <string name="_16_n_16_n_16_n_3_10"><![CDATA[<16 усиление кардиореспираторной системы\n>16 ослабление сердечно-сосудистой системы\nПри занятих спортом может быть ниже 16\nДля улучшения стоит заниматься физической культурой 3 раза в неделю и ходить более 10 тыс шагов в день]]></string>
+</resources>
